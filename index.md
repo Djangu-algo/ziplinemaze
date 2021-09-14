@@ -1,3 +1,5 @@
+While Quantopian has been closed, zipline project has multiplied and branched and non-coders have usually hard time getting to use zipline to test trading strategies. This blog attempts to document a journey to install and use various zipline versions to test systematic trading strategies.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Svarog-1/pages/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
